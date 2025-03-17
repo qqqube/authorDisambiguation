@@ -1,0 +1,1 @@
+Output the title of the paper and nothing else.

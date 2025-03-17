@@ -1,0 +1,4 @@
+This is the Google Scholar profile of {{author name}}.
+What institution are they affiliated with?
+Output just the institution name and nothing else.
+If you can't determine the affiliation from the screenshot, output "No Answer".

@@ -1,0 +1,3 @@
+This website's URL is {{website url}}
+Is this the personal website of {{author name}}, a computer science researcher? 
+Output either "yes" or "no".
